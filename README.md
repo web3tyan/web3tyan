@@ -10,11 +10,18 @@ web3tyan/web3tyan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-📂 Language skills:
-— Ukrainian native;
-— Russian native; 
-— English A1;
-— German B1;
+📂 Languages:
+- Ukrainian (native)
+- Russian native
+- English A1
+- German B1
+
+✨ Skills:
+- Copywriting (posts on socials, text)
+- Design by Photoshop (pictures, branded stickers, memes, giffs)
+- Video tutorials on Youtube, guides, shorts (TikTok)
+- Content creating (challenges, quizes)
+- Streams on Twitch
 
 🧬 Other experience:
 - 👤 I participated in Goldfinch FA.
