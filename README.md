@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 🧬 Other experience:
 - 👤 I participated in Goldfinch FA.
 - 🎨 I made content for some projects: Aptos, Kyve, Ironfish, Axelar.
-- 🤝🏻 from August 2022 i am Co-Founder (Content Creator) of Aptos Ukrainian Hub - 
-(we are working on website)
+- 🤝🏻 from August 2022 i am Co-Founder (Content Creator) of ukrainian community Aptos Ukrainian Hub 🇺🇦 twitter @aptos_ua
 
 🛠 I've been doing node running.
 PROJECTS:
