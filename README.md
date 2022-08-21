@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 🛠 I've been doing node running.
 PROJECTS:
-— Aleo: https://www.aleo.org/
+- Aleo: https://www.aleo.org/
 — Celestia: https://celestia.org/
 — Gear: https://www.gear-tech.io/
 — Subspace: https://subspace.network/
