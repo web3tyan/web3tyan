@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 📂 Languages:
 - Ukrainian (native)
-- Russian native
+- Russian
 - English A1
 - German B1
 
