@@ -1,9 +1,9 @@
-🫶🏻 Hi there! I’m @web3tyan. My name is Diana, I am 23y.o. I am from Ukraine.
-📍 Now currently in Bonn (Germany).
-👩🏼‍💻 I'm node runner, crypto enthuasist, contributor, content creator.
-🧬 I’m interested in crypto currencies and metaverse.
-📹 I’m working on my Youtube-channel (node installing tutorials, interviews, other speaking interesting videos). Through my work, I strive to be an crypto influencer.
-🔗 I’m working on my own crypto project, but I need a lot of time.
+- 🫶🏻 Hi there! I’m @web3tyan. My name is Diana, I am 23y.o. I am from Ukraine.
+- 📍 Now currently in Bonn (Germany).
+- 👩🏼‍💻 I'm node runner, crypto enthuasist, contributor, content creator.
+- 🧬 I’m interested in crypto currencies and metaverse.
+- 📹 I’m working on my Youtube-channel (node installing tutorials, interviews, other speaking interesting videos). Through my work, I strive to be an crypto influencer.
+- 🔗 I’m working on my own crypto project, but I need a lot of time.
 
 <!---
 web3tyan/web3tyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
