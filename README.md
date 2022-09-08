@@ -36,7 +36,6 @@ PROJECTS:
 - Subspace: https://subspace.network/
 - Starknet: https://starknet.io/
 - IronFish: https://ironfish.network/
-- NYM: https://nymtech.net/
 - Minima: https://www.minima.global/
 - Massa: https://massa.net/
 - Masa finance: https://www.masa.finance/
