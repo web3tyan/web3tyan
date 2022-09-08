@@ -1,4 +1,4 @@
-- 🫶🏻 Hi there! I’m @web3tyan. My name is Diana, I am 23y.o. I am from Ukraine.
+- 🫶🏻 Hi there! I’m 🕸web3tyan. My name is Diana, I am 23y.o. I am from Ukraine.
 - 📍 Now currently in Bonn (Germany).
 - 👩🏼‍💻 I'm node runner, crypto enthuasist, contributor, content creator.
 - 🧬 I’m interested in crypto currencies and metaverse.
