@@ -17,11 +17,13 @@ You can click the Preview link to take a look at your changes.
 - German B1
 
 ✨ Skills:
-- Copywriting (posts on socials, text)
-- Design by Photoshop (pictures, branded stickers, memes, giffs)
-- Video tutorials on Youtube, guides, shorts (TikTok)
-- Content creating (challenges, quizes)
-- Streams on Twitch
+- Copywriting (posts on socials, articles);
+- Design by Photoshop (pictures, stickers, memes, giffs);
+- Video tutorials on Youtube, guides, shorts (TikTok);
+- Video-interviews (in future);
+- Streams on Twitch;
+- Holding events: quizzes, competitions, challenges and contests.
+
 
 🧬 Other experience:
 - 👤 I participated in Goldfinch FA.
@@ -49,10 +51,10 @@ PROJECTS:
 - Facebook https://www.facebook.com/profile.php?id=100017176665963
 - Linkedin https://www.linkedin.com/in/diana-shershun-b8308a1a3
 - Discord: web3tyan#5086 / ID 377105983274614784
-- Twitter: @web3tyan
-- Telegram: @web3tyan
+- Twitter: @web3tyan / ID 1422869762
+- Telegram: @web3tyan / ID 330617696
 - Youtube: https://youtube.com/channel/UCZP0yuNavEaP22-PiXqu_TQ
 - TikTok: https://www.tiktok.com/@web3tyan
 
-📫 DM to cooperate
 ✉️ tumanovadiana@gmail.com
+📫 DM to cooperate
