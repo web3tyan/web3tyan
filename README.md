@@ -1,6 +1,6 @@
 - 🫶🏻 Hi there! I’m 🕸web3tyan. My name is Diana, I am 23y.o. I am from Ukraine.
 - 📍 Now currently in Bonn (Germany).
-- 👩🏼‍💻 I'm node runner, crypto enthuasist, contributor, content creator.
+- 👩🏼‍💻 I'm node runner and validator, crypto enthuasist, contributor, content creator.
 - 🧬 I’m interested in crypto currencies and metaverse.
 - 📹 I’m working on my Youtube-channel (node installing tutorials, interviews, other speaking interesting videos). Through my work, I strive to be an crypto influencer (sounds very loudly, but I am focused on the result). I want to cooperate with a lot of crypto projects and his community to do more useful content, it’s a great honor for me!
 - 🔗 I’m working on my own crypto project, but I need a lot of time.
