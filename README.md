@@ -56,5 +56,5 @@ PROJECTS:
 - Youtube: https://youtube.com/channel/UCZP0yuNavEaP22-PiXqu_TQ
 - TikTok: https://www.tiktok.com/@web3tyan
 
-✉️ tumanovadiana@gmail.com
+📧 tumanovadiana@gmail.com
 📫 DM to cooperate
